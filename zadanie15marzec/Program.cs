@@ -18,17 +18,17 @@ public abstract class Device
     public 
 }
 
-public class Laptop
+public class Laptop : Device
 {
     // kontruktor
 }
 
-public class Camera
+public class Camera : Device
 {
     // kontruktor
 }
 
-public class Monitor
+public class Monitor : Device
 {
     // kontruktor
 }
@@ -87,7 +87,8 @@ public class Serwis
     
 }
 
-void main()
+// main
 {
     // Add some items
+    //Camera item1 =  new Camera("arg");
 }
