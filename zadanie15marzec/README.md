@@ -1,0 +1,2 @@
+﻿-W readme musi być krótki opis decyzji porjektowych (np. jak podzieliłem kod i dlaczego taki podział uznałem za sensowny). Dlaczego wybrałem taki podział klas plików
+-Dodatkowo musi być instrukcja uruchomienia programu w Readme
